@@ -1,9 +1,7 @@
 ﻿# ICC
 Repositório para códigos gerados e exemplificados nas aulas de Introdução à Ciência da Computação
 
-Nome do Professor: Fernando Medeiros
-E-mail do professor: medeiros.fiocruz@gmail.com
-Site das aulas teróricas: https://slides.com/fernandomedeiros
+Nome do Professor: Fernando Medeiros/ E-mail do professor: medeiros.fiocruz@gmail.com/ Site das aulas teróricas: https://slides.com/fernandomedeiros
 
 
 
